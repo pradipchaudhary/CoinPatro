@@ -6,6 +6,6 @@
     "author": "Pradip Chaudhary",
     "action": {
         "default_popup": "index.html",
-        "default_title": "RupeeSync-Crypto-Monitor"
+        "default_title": "RupeeSync Crypto Monitor"
     }
 }
