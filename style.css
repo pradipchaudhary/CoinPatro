@@ -1,15 +1,49 @@
+/* Google fonts */
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+:root {
+    --primary: "#8BC34A";
+    --secondary: "#8BC34A";
+    --white: "#FFFFFF";
+    --dark: "#333333";
+    --primary_alpha_05: "rgba(139,195,74,0.5)";
+    --white_alpha_05: "rgba(255,255,255,0.5)";
+    --dark_alpha_05: "rgba(0,0,0,0.5)";
+    --dark_alpha_01: "rgba(0,0,0,0.05)";
+}
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
+body {
+    font-size: 16px;
+    font-family: "Montserrat", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    display: flex;
+    justify-content: center;
+}
 .container {
-    background: #efefef99;
-    text-align: center;
-    width: 450px;
-    height: 300px;
+    width: 400px;
+    height: 500px;
+    padding: 1rem;
+    background: var(--white);
 }
 
 .title {
-    border-bottom: 1px solid #efefef;
+    margin-bottom: 1rem;
+    padding-bottom: 1rem;
+    font-size: 24px;
+    font-weight: 900;
+    border-bottom: 1px solid var(--dark_alpha_01);
+}
+
+footer {
+    width: 100%;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
