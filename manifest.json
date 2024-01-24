@@ -1,11 +1,11 @@
 {
-    "name": "INR WiseCrypto Tracker",
+    "name": "RupeeSync-Crypto-Monitor",
     "version": "1.0.0",
     "description": "latest Crypto data of world-wide",
     "manifest_version": 3,
     "author": "Pradip Chaudhary",
     "action": {
         "default_popup": "index.html",
-        "default_title": "INR WiseCrypto Tracker"
+        "default_title": "RupeeSync-Crypto-Monitor"
     }
 }
