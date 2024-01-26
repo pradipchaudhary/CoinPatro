@@ -1,11 +1,16 @@
 const baseCoinAPI = "https://pro-api.coinmarketcap.com/";
+const key = "d112fe10-885e-4fdf-80a4-01e9194d29eb";
 const apiVersion = "v1";
-const apiKey = `&CMC_PRO_API_KEY=${REACT_APP_CMC_KEY}`;
+const apiKey = `&CMC_PRO_API_KEY=${key}`;
 
 //Function to get the top 25 coins.
 const getCoins = async (endPoint) => {
     let path = `${baseCoinAPI}${apiVersion}${endPoint}${apiKey}`;
-    const fetchResult = await fetch(path);
+    const fetchResult = await fetch(path, {
+        method: "GET",
+        mode: "cors",
+        headers: { "Content-Type": "application/json" },
+    });
     const result = await fetchResult.json();
     console.log(result);
 

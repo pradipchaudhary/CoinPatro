@@ -5,6 +5,7 @@
     "manifest_version": 3,
     "author": "Pradip Chaudhary",
     "action": {
+        "default_icon": "./images/icon128.png",
         "default_popup": "index.html",
         "default_title": "RupeeSync Crypto Monitor"
     }
