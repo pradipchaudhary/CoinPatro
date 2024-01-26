@@ -9,7 +9,8 @@
             "19": "images/logo192.png",
             "38": "images/logo512.png"
         },
-        "default_popup": "index.html"
+        "default_popup": "index.html",
+        "default_title": "Nepali Coin Watcher"
     },
     "background": {
         "scripts": ["scripts/background.js"],
