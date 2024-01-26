@@ -1,0 +1,24 @@
+{
+    "manifest_version": 2,
+    "short_name": "nepalicoinwatcher",
+    "name": "Nepali Coin Watcher Chrome Extension",
+    "version": "0.1.1",
+    "description": "Nepali Coin Watcher: A chrome extension to show the latest Coins prices updates in Nepali Currency.",
+    "browser_action": {
+        "default_icon": {
+            "19": "images/logo192.png",
+            "38": "images/logo512.png"
+        },
+        "default_popup": "index.html"
+    },
+    "background": {
+        "scripts": ["scripts/background.js"],
+        "persistent": false
+    },
+    "web_accessible_resources": ["js/*", "html/*", "css/*"],
+    "icons": {
+        "16": "images/logo192.png",
+        "48": "images/logo192.png",
+        "128": "images/logo192.png"
+    }
+}
