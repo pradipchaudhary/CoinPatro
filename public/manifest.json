@@ -1,16 +1,16 @@
 {
     "manifest_version": 2,
-    "short_name": "nepalicoinwatcher",
-    "name": "Nepali Coin Watcher Chrome Extension",
+    "short_name": "Nepali Coin Tracker",
+    "name": "Nepali Coin Tracker Chrome Extension",
     "version": "0.1.1",
-    "description": "Nepali Coin Watcher: A chrome extension to show the latest Coins prices updates in Nepali Currency.",
+    "description": "Nepali Coin Tracker: A chrome extension to show the latest Coins prices updates in Nepali Currency.",
     "browser_action": {
         "default_icon": {
             "19": "images/logo192.png",
             "38": "images/logo512.png"
         },
         "default_popup": "index.html",
-        "default_title": "Nepali Coin Watcher"
+        "default_title": "Nepali Coin Tracker"
     },
     "background": {
         "scripts": ["scripts/background.js"],
