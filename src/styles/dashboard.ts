@@ -10,3 +10,9 @@ export const SectionTitle = styled.h1`
     font-size: 24px;
     font-weight: 700;
 `;
+
+export const Footer = styled.div`
+    margin-top: 1rem;
+    padding-top: 1rem;
+    border-top: 1px solid ${(props) => props.theme.colors.dark_alpha_01};
+`;
