@@ -1,6 +1,6 @@
 import React, { FC } from "react";
 import { Container } from "../styles";
-import { Dashboard } from "./popup";
+import { Dashboard } from "./components/popup";
 
 const App: FC = () => {
     return (
