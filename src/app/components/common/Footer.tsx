@@ -2,7 +2,7 @@ import React, { FC } from "react";
 
 // Import Icons
 import { FaGithub, FaFacebook, FaTwitter } from "react-icons/fa";
-import { FooterSection } from "../../../../../styles";
+import { FooterSection } from "../../../styles";
 
 const socialLinks = [
     {
@@ -27,14 +27,12 @@ const Footer: FC = () => {
         <FooterSection className="dashboard-footer">
             <div className="copyright">
                 Copyright ©
-                <a href="https://pradipchaudhary.com.np/" target="_blank">
-                    Pradip Chaudhary
-                </a>
+                <a href="https://pradipchaudhary.com.np/">Pradip Chaudhary</a>
             </div>
             <div className="social-links">
                 {socialLinks.map((item) => {
                     return (
-                        <a href={item.link} key={item.name} target="_blank">
+                        <a href={item.link} key={item.name}>
                             {item.icon}
                         </a>
                     );

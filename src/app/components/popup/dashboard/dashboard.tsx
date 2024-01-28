@@ -1,6 +1,6 @@
 import { FC } from "react";
 import { DashboardHead, SectionTitle } from "../../../../styles";
-import Footer from "./footer/footer";
+import Footer from "../../common/Footer";
 
 // Images impports
 
