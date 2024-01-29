@@ -1,5 +1,9 @@
 import { FC } from "react";
-import { DashboardHead, SectionTitle } from "../../../../styles";
+import {
+    DashboardHead,
+    SectionTitle,
+    DashboardContent,
+} from "../../../../styles";
 import Footer from "../../common/Footer";
 
 // Images impports
@@ -11,10 +15,10 @@ const Dashboard: FC = () => {
                 <SectionTitle> Nepali Coin Tracker</SectionTitle>
             </DashboardHead>
 
-            <div className="content">
+            <DashboardContent className="dashboard-content">
                 <h1>BTC</h1>
                 <h4>Rs. 5,279,922.69</h4>
-            </div>
+            </DashboardContent>
             <Footer />
         </div>
     );

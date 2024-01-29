@@ -44,3 +44,7 @@ export const UpdatedStats = styled.div`
         border-radius: 3px;
     }
 `;
+
+export const DashboardContent = styled.div`
+    padding: 10px;
+`;
