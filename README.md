@@ -1,46 +1,41 @@
-# Getting Started with Create React App
+# 🚀 CoinPatro (कॉइन पात्रो)  
+*Your Nepali Crypto Price Tracker – क्रिप्टो मूल्य नेपालीमा!*
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![GitHub repo size](https://img.shields.io/github/repo-size/pradipchaudhary/coinpatro)
+![GitHub stars](https://img.shields.io/github/stars/pradipchaudhary/coinpatro?style=social)
+![GitHub forks](https://img.shields.io/github/forks/pradipchaudhary/coinpatro?style=social)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 📖 About
 
-### `npm start`
+**CoinPatro (कॉइन पात्रो)** is a simple and powerful **Chrome Extension** that shows **live cryptocurrency prices in Nepali language (नेपालीमा)**.  
+It converts values into **Nepali numerals (०, १, २, ...)** and keeps you updated with the latest market prices in **Nepali Rupees (NPR)**.  
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+✨ **Why CoinPatro?**
+- 🪙 Track Bitcoin, Ethereum, Solana (and more soon)  
+- 🔄 Auto-refresh every 30 seconds  
+- 🔢 Nepali numeral support  
+- 🌐 Data from **CoinGecko API**  
+- 🇳🇵 Made for Nepali crypto enthusiasts  
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+---
 
-### `npm test`
+## 📸 Screenshots  
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+> (Add screenshots of your extension UI here)  
 
-### `npm run build`
+![CoinPatro Screenshot](./screenshot.png)  
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🛠 Tech Stack
+- **React + TypeScript** ⚛️  
+- **TailwindCSS** 🎨  
+- **Manifest V3 (Chrome Extensions)** 🔐  
+- **CoinGecko API** 🌍  
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 📂 Project Structure
