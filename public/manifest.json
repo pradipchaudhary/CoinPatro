@@ -1,25 +1,16 @@
 {
-    "manifest_version": 2,
-    "short_name": "Nepali Coin Tracker",
-    "name": "Nepali Coin Tracker Chrome Extension",
-    "version": "0.1.1",
-    "description": "Nepali Coin Tracker: A chrome extension to show the latest Coins prices updates in Nepali Currency.",
-    "browser_action": {
-        "default_icon": {
-            "19": "images/logo192.png",
-            "38": "images/logo512.png"
-        },
-        "default_popup": "index.html",
-        "default_title": "Nepali Coin Tracker"
-    },
-    "background": {
-        "scripts": ["scripts/background.js"],
-        "persistent": false
-    },
-    "web_accessible_resources": ["js/*", "html/*", "css/*"],
-    "icons": {
-        "16": "images/logo192.png",
-        "48": "images/logo192.png",
-        "128": "images/logo192.png"
-    }
+  "manifest_version": 3,
+  "name": "CoinPatro - Nepali Crypto Tracker",
+  "version": "1.0.0",
+  "description": "क्रिप्टो मूल्य नेपालीमा हेर्नुहोस् - CoinPatro",
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "CoinPatro"
+  },
+  "permissions": ["storage", "activeTab"]
 }
