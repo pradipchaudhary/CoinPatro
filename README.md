@@ -1,4 +1,4 @@
-# 🚀 CoinPatro (कॉइन पात्रो)  
+# 🚀 CoinPatro 
 *Your Nepali Crypto Price Tracker – क्रिप्टो मूल्य नेपालीमा!*
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/pradipchaudhary/coinpatro)
