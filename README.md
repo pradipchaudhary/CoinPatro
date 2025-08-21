@@ -6,7 +6,8 @@
 ---
 
 ## 📖 About  
-**NepCoin (नेपकोइन)** is a simple, powerful, and localized **Chrome Extension** that displays **live cryptocurrency prices in Nepali language (नेपालीमा)**.  
+**NepCoin (नेपकोइन)** is a simple, powerful, and localized **Chrome Extension** that displays **live cryptocurrency prices in Nepali language (नेपालीमा)**.
+
 It automatically converts values into **Nepali numerals (०, १, २, ...)** and shows the latest market prices in **Nepali Rupees (NPR)** — right inside your browser.  
 
 ---
