@@ -1,42 +1,46 @@
-# 🚀 NepCoin  
-*Your Nepali Crypto Price Tracker – क्रिप्टो मूल्य नेपालीमा!*  
+# 🚀 NepCoin
+*Your Nepali Crypto Price Tracker – क्रिप्टो मूल्य नेपालीमा!*
+
+![NepCoin Banner](./public/banner.png)
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/pradipchaudhary/nepcoin)
 ![GitHub stars](https://img.shields.io/github/stars/pradipchaudhary/nepcoin?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/pradipchaudhary/nepcoin?style=social)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Platform](https://img.shields.io/badge/platform-Chrome%20Extension-green)
+![License](https://img.shields.io/github/license/pradipchaudhary/nepcoin)
+![Platform](https://img.shields.io/badge/platform-Chrome-blue?logo=googlechrome)
 
 ---
 
 ## 📖 About  
-
-**NepCoin (नेपकोइन)** is a **simple, powerful, and localized Chrome Extension** that displays **live cryptocurrency prices in Nepali language (नेपालीमा)**.  
+**NepCoin (नेपकोइन)** is a simple, powerful, and localized **Chrome Extension** that displays **live cryptocurrency prices in Nepali language (नेपालीमा)**.  
 It automatically converts values into **Nepali numerals (०, १, २, ...)** and shows the latest market prices in **Nepali Rupees (NPR)** — right inside your browser.  
 
-✨ **Why NepCoin?**  
-- 🪙 Track Bitcoin, Ethereum, Solana (more coming soon)  
-- 🔄 Auto-refresh every 30 seconds  
-- 🔢 Nepali numeral support (localized UX)  
+---
+
+## ✨ Features  
+
+- 🪙 Track **Bitcoin, Ethereum, Solana** (more coming soon)  
+- 🔄 Auto-refresh every **30 seconds**  
+- 🔢 **Nepali numeral support** (localized UX)  
 - 🌐 Powered by **CoinGecko API**  
-- 🇳🇵 Made with ❤️ for Nepali crypto users  
+- 🇳🇵 Made with ❤️ for **Nepali crypto users**  
 
 ---
 
 ## 📸 Screenshots  
 
-> Add screenshots or GIFs of your extension in action  
-
-![NepCoin Screenshot](./screenshot.png)  
+| Popup View | Extension in Action |
+|------------|----------------------|
+| ![Popup Screenshot](./public/screenshot1.png) | ![Action Screenshot](./public/screenshot2.png) |
 
 ---
 
 ## 🛠 Tech Stack  
 
-- **React + TypeScript** ⚛️  
-- **TailwindCSS** 🎨  
-- **Manifest V3 (Chrome Extensions)** 🔐  
-- **CoinGecko API** 🌍  
+- ⚛️ **React + TypeScript**  
+- 🎨 **TailwindCSS**  
+- 🔐 **Manifest V3 (Chrome Extensions)**  
+- 🌍 **CoinGecko API**  
 
 ---
 
