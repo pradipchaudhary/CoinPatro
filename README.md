@@ -1,18 +1,7 @@
 # 🚀 NepCoin
-
+*Your Nepali Crypto Price Tracker – क्रिप्टो मूल्य नेपालीमा!*
 
 ![NepCoin Banner](./public/banner.png)
-<P align="center">*Your Nepali Crypto Price Tracker – क्रिप्टो मूल्य नेपालीमा!*</P>
-
-<div align="center">
-
-![GitHub repo size](https://img.shields.io/github/repo-size/pradipchaudhary/nepcoin)
-![GitHub stars](https://img.shields.io/github/stars/pradipchaudhary/nepcoin?style=social)
-![GitHub forks](https://img.shields.io/github/forks/pradipchaudhary/nepcoin?style=social)
-![License](https://img.shields.io/github/license/pradipchaudhary/nepcoin)
-![Platform](https://img.shields.io/badge/platform-Chrome-blue?logo=googlechrome)
-
-</div
 
 ---
 
