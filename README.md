@@ -3,11 +3,15 @@
 
 ![NepCoin Banner](./public/banner.png)
 
+<div align="center">
+
 ![GitHub repo size](https://img.shields.io/github/repo-size/pradipchaudhary/nepcoin)
 ![GitHub stars](https://img.shields.io/github/stars/pradipchaudhary/nepcoin?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/pradipchaudhary/nepcoin?style=social)
 ![License](https://img.shields.io/github/license/pradipchaudhary/nepcoin)
 ![Platform](https://img.shields.io/badge/platform-Chrome-blue?logo=googlechrome)
+
+</div
 
 ---
 
