@@ -4,7 +4,7 @@
 ![NepCoin Banner](./public/banner.jpg)
 
 *Your Nepali Crypto Price Tracker – क्रिप्टो मूल्य नेपालीमा!*
----
+
 
 ## 📖 About  
 **NepCoin (नेपकोइन)** is a simple, powerful, and localized **Chrome Extension** that displays **live cryptocurrency prices in Nepali language (नेपालीमा)**.
