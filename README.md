@@ -24,9 +24,7 @@ It automatically converts values into **Nepali numerals (०, १, २, ...)** a
 
 ## 📸 Screenshots  
 
-| Popup View | Extension in Action |
-|------------|----------------------|
-| ![Popup Screenshot](./public/screenshot1.png) | ![Action Screenshot](./public/screenshot2.png) |
+ ![Popup Screenshot](./public/Screenshot.png)
 
 ---
 
