@@ -1,7 +1,7 @@
 # 🚀 NepCoin
 *Your Nepali Crypto Price Tracker – क्रिप्टो मूल्य नेपालीमा!*
 
-![NepCoin Banner](./public/banner.png)
+![NepCoin Banner](./public/banner.jpg)
 
 ---
 
